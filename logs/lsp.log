@@ -1,0 +1,48 @@
+18-10-2021 15:15:54.656 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-10-2021 15:15:54.657 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-10-2021 15:15:54.657 [Gauge] [DEBUG] Adding specs from /Users/enes.bek/Documents/Tests/gauge_taiko_example/specs/example.spec
+18-10-2021 15:15:54.657 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-10-2021 15:15:54.657 [Gauge] [DEBUG] Watching directory: /Users/enes.bek/Documents/Tests/gauge_taiko_example/specs
+18-10-2021 15:15:54.658 [Gauge] [DEBUG] Found 1 files
+18-10-2021 15:15:54.659 [Gauge] [INFO] Starting language runner
+18-10-2021 15:15:54.979 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 65141
+18-10-2021 15:15:54.981 [Gauge] [DEBUG] Successfully made the connection with runner with port: 65141
+18-10-2021 15:15:54.981 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+18-10-2021 15:15:55.213 [Gauge] [DEBUG] Validation started.
+18-10-2021 15:15:55.448 [Gauge] [DEBUG] Validation started.
+18-10-2021 15:15:57.090 [Gauge] [DEBUG] Validation started.
+18-10-2021 15:15:57.095 [Gauge] [DEBUG] Validation completed.
+18-10-2021 15:15:57.167 [Gauge] [DEBUG] Spec file added / modified: /Users/enes.bek/Documents/Tests/gauge_taiko_example/specs/example.spec
+18-10-2021 15:15:58.069 [Gauge] [DEBUG] Spec file added / modified: /Users/enes.bek/Documents/Tests/gauge_taiko_example/specs/example.spec
+18-10-2021 15:16:37.052 [Gauge] [DEBUG] Validation started.
+18-10-2021 15:16:37.056 [Gauge] [DEBUG] Validation completed.
+18-10-2021 15:16:51.009 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-10-2021 15:16:51.009 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-10-2021 15:16:51.009 [Gauge] [DEBUG] Adding specs from /Users/enes.bek/Documents/Tests/gauge_taiko_example/specs/example.spec
+18-10-2021 15:16:51.009 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-10-2021 15:16:51.010 [Gauge] [DEBUG] Watching directory: /Users/enes.bek/Documents/Tests/gauge_taiko_example/specs
+18-10-2021 15:16:51.010 [Gauge] [DEBUG] Found 1 files
+18-10-2021 15:16:51.010 [Gauge] [INFO] Starting language runner
+18-10-2021 15:16:51.304 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 65378
+18-10-2021 15:16:51.306 [Gauge] [DEBUG] Successfully made the connection with runner with port: 65378
+18-10-2021 15:16:51.306 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+18-10-2021 15:16:51.497 [Gauge] [DEBUG] Validation started.
+18-10-2021 15:16:51.506 [Gauge] [DEBUG] Validation completed.
+18-10-2021 15:16:51.660 [Gauge] [DEBUG] Runner with PID:10348 has exited
+18-10-2021 15:16:51.663 [Gauge] [INFO] Connection closed
+18-10-2021 15:16:51.663 [Gauge] [ERROR] Unable to log error 'Connection closed' to LSP: jsonrpc2: connection is closed
+18-10-2021 15:16:53.369 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-10-2021 15:16:53.369 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-10-2021 15:16:53.369 [Gauge] [DEBUG] Adding specs from /Users/enes.bek/Documents/Tests/gauge_taiko_example/specs/example.spec
+18-10-2021 15:16:53.370 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-10-2021 15:16:53.370 [Gauge] [DEBUG] Watching directory: /Users/enes.bek/Documents/Tests/gauge_taiko_example/specs
+18-10-2021 15:16:53.370 [Gauge] [DEBUG] Found 1 files
+18-10-2021 15:16:53.370 [Gauge] [INFO] Starting language runner
+18-10-2021 15:16:53.633 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 65397
+18-10-2021 15:16:53.636 [Gauge] [DEBUG] Successfully made the connection with runner with port: 65397
+18-10-2021 15:16:53.636 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+18-10-2021 15:16:53.809 [Gauge] [DEBUG] Validation started.
+18-10-2021 15:16:53.821 [Gauge] [DEBUG] Validation completed.
+18-10-2021 15:19:48.025 [Gauge] [DEBUG] Runner with PID:10382 has exited
+18-10-2021 15:19:48.030 [Gauge] [INFO] Connection closed
+18-10-2021 15:19:48.030 [Gauge] [ERROR] Unable to log error 'Connection closed' to LSP: jsonrpc2: connection is closed
